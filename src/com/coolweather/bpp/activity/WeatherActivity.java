@@ -1,6 +1,7 @@
 package com.coolweather.bpp.activity;
 
 import com.coolweather.bpp.R;
+import com.coolweather.bpp.service.AutoUpdateService;
 import com.coolweather.bpp.utils.HttpCallbackListener;
 import com.coolweather.bpp.utils.HttpUtil;
 import com.coolweather.bpp.utils.Utility;
